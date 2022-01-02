@@ -1,0 +1,24 @@
+{
+  "name": "curd_simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishgirase95/CURD_simple.git"
+  },
+  "author": "vishal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishgirase95/CURD_simple/issues"
+  },
+  "homepage": "https://github.com/vishgirase95/CURD_simple#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongodb": "^4.2.2",
+    "mongoose": "^6.1.4"
+  }
+}
